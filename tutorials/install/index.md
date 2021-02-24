@@ -5,7 +5,7 @@
 **Genesis** does not special installation and the file can simply be executed using Java.
 It does, however, require the Java SE Runtime Environment 1.8 or higher to be installed
 on the user’s system. The latest version of the Java SE Runtime Environment
-1.8 can be found at: (https://www.oracle.com/za/java/technologies/javase-downloads.html)
+1.8 can be found at [**Oracle JavaSE downloads**](https://www.oracle.com/za/java/technologies/javase-downloads.html)
 
 To check if you already have Java installed, you can open your Operating System’s
 command line interface and enter
@@ -29,7 +29,7 @@ java version "11.0.8" 2020-07-14 LTS
 Java(TM) SE Runtime Environment 18.9 (build 11.0.8+10-LTS)
 Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.8+10-LTS, mixed mode)
 ```
-The type of installation depends on your requirement and the platform that you choose to install. To **run**  download and install JDK by using the JDK Installation Guide in (https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A)
+The type of installation depends on your requirement and the platform that you choose to install. To **run**  download and install JDK by using this [**JDK Installation Guide**](https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A).
 
 ## Running Genesis
 

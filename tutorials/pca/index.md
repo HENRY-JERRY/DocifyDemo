@@ -4,10 +4,10 @@
 
 **Genesis** takes as input one mandatory file, and one optional file:
 
- -The compulsory input file is a PCA file. In this version of the code, threeinput formats
+- The compulsory input file is a PCA file. In this version of the code, threeinput formats
 are supported: eigenstrat, plink and SNPRelate.
 
-- A phenotype file (see the description in the previous section), which labels each individual.
+- A phenotype file (see the description in the previous section), which labels each individual.
 
 In addition to plink-style phentoype files, eigenstrat pca.evec files are legal as input (the phentoype is often in thelast column).
 

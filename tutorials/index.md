@@ -1,8 +1,8 @@
 
-# Tutorials for every technologist
+# Tutorials Genesis Users
 
-Learn about all these great technologies:
+Learn how to use Genesis:
 
-[Tomcat](./tomcat/index.md)
-[Cloud](./cloud/index.md)
-[Java](./java/index.md)
+[PCA](./PCA/index.md)
+[Admixture](./Admixture/index.md)
+[Install](./Install/index.md)

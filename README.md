@@ -1,7 +1,5 @@
 # Welcome to Genesis Page!
 
-<!-- This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page. This site was created for [**Opensource.com**](https://opensource.com) demo. -->
-
 Genesis is a program created for scientists to generate PCA (Principal Component Analysis) and structure/admixture graphs from data outputted by common tools such as eigenstrat [Pritchard et al. 2000] and the SNPRelate [Zheng et al 2012] package for PCAs and Admixture [Alexander et al. 2009] and CLUMPP [Jakobsson and Rosenberg 2007] for admixtures.
 
 Genesis was developed with user-friendliness in mind as other tools can be complex to use and lack certain features. All elements of the graphs that would need to be edited can be done so using a graphical user Interface where the graphs themselves are interactive and different elements can be viewed and changed at the click of the mouse. All this saves the time that scientists would rather be spending doing more important things.
@@ -11,4 +9,4 @@ An example is found below:
 
 ![Welcome to Genesis](./images/pca-example.png)
 
-![Welcome to Opensource.com](./images/genesis-screen.png)
+![Welcome to Genesis](./images/genesis-screen.png)

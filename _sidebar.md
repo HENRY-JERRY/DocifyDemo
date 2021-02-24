@@ -3,13 +3,12 @@
 
 * [HOME](./)
 
-* [Tutorials](./tut/index)
-  * [PCA](./tut/pca/index)
-  * [Admixture](./tut/admixture/index)
-  * [Data](./tut/data/index)
-  * [Install](./tut/install/index)
+* [Tutorials](./tutorials/index)
+  * [PCA](./tutorials/pca/index)
+  * [Admixture](./tutorials/admixture/index)
+  * [Data](./tutorials/data/index)
+  * [Install](./tutorials/install/index)
 
 * [About](./about/index)
 
 * [Contact](./contact/index)
-

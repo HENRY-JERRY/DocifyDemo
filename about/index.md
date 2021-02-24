@@ -1,3 +1,3 @@
-# About This Site
+# About Developers
 
-This site content was generated using Docify and went to demo in Opensource.com
+This tool was developed at **Sydney Brenner Institute for Molecular Bioscience** sponsored by **H3ABioNet**.

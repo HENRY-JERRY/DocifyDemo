@@ -3,6 +3,7 @@
 
 Learn how to use Genesis:
 
-[pca](./pca/index.md)
-[admixture](./admixture/index.md)
-[install](./install/index.md)
+[PCA](./pca/index.md)
+[Admixture](./admixture/index.md)
+[Data](./data/index.md)
+[Install](./install/index.md)

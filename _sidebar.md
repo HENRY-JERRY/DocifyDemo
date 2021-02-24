@@ -6,7 +6,7 @@
 * [Tutorials](./tutorials/index)
   * [PCA](./tutorials/PCA/index)
   * [Admixture](./tutorials/Admixture/index)
-  * [Videos](./tutorials/Videos/index)
+  * [Install](./tutorials/Install/index)
 
 * [About](./about/index)
 

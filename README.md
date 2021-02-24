@@ -9,6 +9,6 @@ Genesis was developed with user-friendliness in mind as other tools can be compl
 Principal Component Analysis is a mathematical and statistical procedure that can used to analyse genotype data. The differences between samples’ genotype data can be used to project each sample into a p-dimensional space, where the p axes are uncorrelated. For realistic data, typically p is 4 or less and often only the most important two demsnions are used. Programs such as eigenstrat produce the the PCs, and Genesis produces them.
 An example is found below:
 
-(./images/pca-example.png)
+![Welcome to Genesis](./images/pca-example.png)
 
 ![Welcome to Opensource.com](./images/genesis-screen.png)
